@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyectBack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|c:\\users\\usuario\\documents\\kiltex\\capacitaciones\\hospitalproyect\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|c:\\users\\usuario\\documents\\kiltex\\capacitaciones\\hospitalproyect\\hospitalproyectback\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|c:\\users\\usuario\\documents\\kiltex\\capacitaciones\\hospitalproyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|c:\\users\\usuario\\documents\\kiltex\\capacitaciones\\hospitalproyect\\hospitalproyectback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|c:\\users\\usuario\\documents\\kiltex\\capacitaciones\\hospitalproyect\\hospitalproyect.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|solutionrelative:hospitalproyect.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|c:\\users\\usuario\\documents\\kiltex\\capacitaciones\\hospitalproyect\\hospitalproyectback\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|c:\\users\\usuario\\documents\\kiltex\\capacitaciones\\hospitalproyect\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|solutionrelative:controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|c:\\users\\usuario\\documents\\kiltex\\capacitaciones\\hospitalproyect\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|c:\\users\\usuario\\documents\\kiltex\\capacitaciones\\hospitalproyect\\hospitalproyectback\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|c:\\users\\usuario\\documents\\kiltex\\capacitaciones\\hospitalproyect\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|c:\\users\\usuario\\documents\\kiltex\\capacitaciones\\hospitalproyect\\hospitalproyectback\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|c:\\users\\usuario\\documents\\kiltex\\capacitaciones\\hospitalproyect\\hospitalproyectback\\hospitalproyect.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6B3CC2BB-F6DB-46C5-8036-34607BC9DD3D}|HospitalProyect.csproj|solutionrelative:hospitalproyect.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,41 +34,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ClientsController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\Controllers\\ClientsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\Controllers\\ClientsController.cs",
-              "RelativeToolTip": "Controllers\\ClientsController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAowEAAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T23:35:37.71Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\Models\\Doctor.cs",
-              "RelativeDocumentMoniker": "Models\\Doctor.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\Models\\Doctor.cs",
-              "RelativeToolTip": "Models\\Doctor.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA0AAAAQAAAAAAAAAA==",
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyectBack\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyectBack\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T18:28:17.965Z",
+              "WhenOpened": "2024-09-10T12:01:26.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyectBack\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyectBack\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:45:10.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyectBack\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyectBack\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:28:17.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "HospitalProyect.http",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyect.http",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyectBack\\HospitalProyect.http",
               "RelativeDocumentMoniker": "HospitalProyect.http",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyect.http",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyectBack\\HospitalProyect.http",
               "RelativeToolTip": "HospitalProyect.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -76,37 +87,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\Models\\Client.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyectBack\\Models\\Client.cs",
               "RelativeDocumentMoniker": "Models\\Client.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyectBack\\Models\\Client.cs",
               "RelativeToolTip": "Models\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAYAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T23:45:51.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DoctorsController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\Controllers\\DoctorsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\Controllers\\DoctorsController.cs",
-              "RelativeToolTip": "Controllers\\DoctorsController.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAUwIMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T23:37:12.281Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyectBack\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyectBack\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T19:18:48.88Z"
             }

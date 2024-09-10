@@ -41,34 +41,6 @@ namespace HospitalProyect.Controllers
 
             return client;
         }
-        [HttpGet("/Name/{Name}")]
-        public async Task<ActionResult<Client>> GetClientByName(string Name)
-        {
-            var client = await _context.Clients.Where(p=> p.Name==Name).ToListAsync();
-
-            if (client == null)
-            {
-                return NotFound(new { Message=$"No se han encontrado clientes con ese nombre"});
-            }
-
-            return Ok(client);
-
-        }
-        
-        [HttpGet("/Dni/{Dni}")]
-        public async Task<ActionResult<Client>> GetClientByDni(int Dni)
-        {
-            var client = await _context.Clients.Where(p=> p.Dni == Dni).ToListAsync();
-
-            if (client == null)
-            {
-                return NotFound(new { Message=$"No se han encontrado clientes con ese dni"});
-            }
-
-            return Ok(client);
-
-        }
-
 
         // PUT: api/Clients/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754

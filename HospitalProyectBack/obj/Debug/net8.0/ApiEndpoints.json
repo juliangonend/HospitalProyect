@@ -268,57 +268,5 @@
         "StatusCode": 200
       }
     ]
-  },
-  {
-    "ContainingType": "HospitalProyect.Controllers.ClientsController",
-    "Method": "GetClientByDni",
-    "RelativePath": "Dni/{Dni}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "Dni",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "HospitalProyect.Models.Client",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "HospitalProyect.Controllers.ClientsController",
-    "Method": "GetClientByName",
-    "RelativePath": "Name/{Name}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "Name",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "HospitalProyect.Models.Client",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
   }
 ]

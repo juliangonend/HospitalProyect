@@ -8276,11 +8276,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyect.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyectBack\\HospitalProyect.csproj",
       "projectName": "HospitalProyect",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyect.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyectBack\\HospitalProyect.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\Kiltex\\Capacitaciones\\HospitalProyect\\HospitalProyectBack\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

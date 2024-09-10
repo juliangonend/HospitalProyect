@@ -1,7 +1,7 @@
 using HospitalProyect.Context;
 using Microsoft.EntityFrameworkCore;
 
-+using HospitalProyect.Context;
+using HospitalProyect.Context;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
